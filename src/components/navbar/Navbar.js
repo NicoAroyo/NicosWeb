@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { BiHomeHeart } from "react-icons/bi";
 import { useEffect } from "react";
 import "./Navbar.scss";
+import Button from "../button/Button";
 function Navbar() {
   const navigate = useNavigate();
   const [click, setClick] = useState(false);
@@ -25,7 +26,13 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <button onClick={() => navigate("/")} className="navbar-logo">
+          <button
+            onClick={() => {
+              setClick(false);
+              navigate("/");
+            }}
+            className="navbar-logo"
+          >
             <BiHomeHeart />
           </button>
         </div>
@@ -33,17 +40,6 @@ function Navbar() {
           {button && <i className={click ? "fas fa-times" : "fas fa-bars"}></i>}
         </div>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
-          <li className="nav-item">
-            <button
-              className="nav-links"
-              onClick={() => {
-                setClick(false);
-                navigate("/about");
-              }}
-            >
-              About me
-            </button>
-          </li>
           <li className="nav-item">
             <button
               className="nav-links"
@@ -63,7 +59,7 @@ function Navbar() {
                 navigate("/contact");
               }}
             >
-              contact
+              Contact me
             </button>
           </li>
         </ul>

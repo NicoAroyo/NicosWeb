@@ -1,16 +1,17 @@
 import React from "react";
 import "./Button.scss";
-import { useNavigate } from "react-router-dom";
 
-export const Button = ({
-  children,
-  type,
-  onClick,
-  buttonStyle,
-  buttonSize,
-}) => {
+export const Button = (props) => {
   return (
     <button className="btn" {...props}>
+      {props.children}
+    </button>
+  );
+};
+
+export const SmallButton = (props) => {
+  return (
+    <button className={`btn-small ${props.isactive && "active"}`} {...props}>
       {props.children}
     </button>
   );
