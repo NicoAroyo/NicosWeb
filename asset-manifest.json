@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NicosWeb/static/css/main.c1466d99.css",
-    "main.js": "/NicosWeb/static/js/main.1aeb5af5.js",
-    "static/media/meandmomo.jpeg": "/NicosWeb/static/media/meandmomo.f3c23df23a4d4d0901aa.jpeg",
-    "static/media/momodev.jpeg": "/NicosWeb/static/media/momodev.0dfea88205c75c246931.jpeg",
-    "static/media/nicoaroyo_cv.pdf": "/NicosWeb/static/media/nicoaroyo_cv.8768cc5559c655719892.pdf",
-    "static/media/bunnieslogo.jpg": "/NicosWeb/static/media/bunnieslogo.bd2157128f4de7ac3988.jpg",
-    "static/media/layered-waves-haikei (4).svg": "/NicosWeb/static/media/layered-waves-haikei (4).2e123f0190698780f8aa.svg",
-    "index.html": "/NicosWeb/index.html",
-    "main.c1466d99.css.map": "/NicosWeb/static/css/main.c1466d99.css.map",
-    "main.1aeb5af5.js.map": "/NicosWeb/static/js/main.1aeb5af5.js.map"
+    "main.css": "/static/css/main.91808e52.css",
+    "main.js": "/static/js/main.739f30f7.js",
+    "static/media/meandmomo.jpeg": "/static/media/meandmomo.f3c23df23a4d4d0901aa.jpeg",
+    "static/media/momodev.jpeg": "/static/media/momodev.0dfea88205c75c246931.jpeg",
+    "static/media/nicoaroyo_cv.pdf": "/static/media/nicoaroyo_cv.8768cc5559c655719892.pdf",
+    "static/media/bunnieslogo.jpg": "/static/media/bunnieslogo.bd2157128f4de7ac3988.jpg",
+    "static/media/layered-waves-haikei (4).svg": "/static/media/layered-waves-haikei (4).2e123f0190698780f8aa.svg",
+    "index.html": "/index.html",
+    "main.91808e52.css.map": "/static/css/main.91808e52.css.map",
+    "main.739f30f7.js.map": "/static/js/main.739f30f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1466d99.css",
-    "static/js/main.1aeb5af5.js"
+    "static/css/main.91808e52.css",
+    "static/js/main.739f30f7.js"
   ]
 }
