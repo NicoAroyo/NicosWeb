@@ -16,7 +16,7 @@ function Contact() {
         </a>
       </div>
       <div>
-        <a href="nico.aroyo@gmail.com">
+        <a href="https://mail.google.com/mail/u/0/?fs=1&to=nico.aroyo%40gmail.com&su=RE%3A+Job+inquiry&body=Hi+Nico&tf=cm">
           {" "}
           <SiGmail /> nico.aroyo@gmail.com{" "}
         </a>
