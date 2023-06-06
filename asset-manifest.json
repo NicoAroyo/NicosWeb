@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NicosWeb/static/css/main.c1466d99.css",
-    "main.js": "/NicosWeb/static/js/main.1aeb5af5.js",
+    "main.js": "/NicosWeb/static/js/main.d5ce31c8.js",
     "static/media/meandmomo.jpeg": "/NicosWeb/static/media/meandmomo.f3c23df23a4d4d0901aa.jpeg",
     "static/media/momodev.jpeg": "/NicosWeb/static/media/momodev.0dfea88205c75c246931.jpeg",
     "static/media/nicoaroyo_cv.pdf": "/NicosWeb/static/media/nicoaroyo_cv.8768cc5559c655719892.pdf",
@@ -9,10 +9,10 @@
     "static/media/layered-waves-haikei (4).svg": "/NicosWeb/static/media/layered-waves-haikei (4).2e123f0190698780f8aa.svg",
     "index.html": "/NicosWeb/index.html",
     "main.c1466d99.css.map": "/NicosWeb/static/css/main.c1466d99.css.map",
-    "main.1aeb5af5.js.map": "/NicosWeb/static/js/main.1aeb5af5.js.map"
+    "main.d5ce31c8.js.map": "/NicosWeb/static/js/main.d5ce31c8.js.map"
   },
   "entrypoints": [
     "static/css/main.c1466d99.css",
-    "static/js/main.1aeb5af5.js"
+    "static/js/main.d5ce31c8.js"
   ]
 }
