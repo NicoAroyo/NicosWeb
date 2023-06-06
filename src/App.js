@@ -11,6 +11,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Routes>
+        <Route path="/NicosWeb" element={<HomeView />}></Route>
         <Route path="/" element={<HomeView />}></Route>
         <Route path="/skills" element={<SkillsView />}></Route>
         <Route path="/contact" element={<ContactView />}></Route>
